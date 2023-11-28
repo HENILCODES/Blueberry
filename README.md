@@ -21,9 +21,13 @@ Include screenshots here to showcase your theme in different coding scenarios.
 
 ![Default](assets/0.png "Hoem")
 
+
+
 ![edit page](assets/2.png "Editore")
 
-![page](https://file+.vscode-resource.vscode-cdn.net/home/henilcode/Documents/code/blueberry/assets/1.png "page")
+
+
+![page](assets/1.png "page")
 
 ## Feedback
 
