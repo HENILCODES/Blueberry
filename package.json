@@ -1,11 +1,17 @@
 {
-  "name": "blueberry",
+  "name": "blueberry-theme",
   "displayName": "Blueberry Theme",
   "description": "Introducing Blueberry, a VS Code color theme that brings a refreshing touch to your coding environment. Immerse yourself in the calming depths of a rich, deep blue, reminiscent of ripe blueberries. The carefully curated syntax highlighting ensures an optimal balance between readability and aesthetics, making your code not only functional but also a pleasure to look at. Whether you're debugging, coding, or exploring, let Blueberry be your visual companion, creating a seamless and enjoyable coding experience.",
+  "publisher": "HenilCode",
+  "license": "Apache-2.0 License",
+  "author": {
+    "name": "Henil Code"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "icon": "assets/logo.jpeg",
   "categories": [
     "Themes"
   ],
@@ -17,5 +23,10 @@
         "path": "./themes/Blueberry Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HENILCODES/Blueberry.git"
+  },
+  "homepage": "https://github.com/HENILCODES/Blueberry/blob/master/README.md"
 }
