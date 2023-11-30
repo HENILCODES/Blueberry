@@ -701,7 +701,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#d6b664"
 		}
 	  },
 	  {
@@ -1164,7 +1164,7 @@
 		"name": "php logical/bitwise operator",
 		"scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#b2ccf7"
 		}
 	  },
 	  {
@@ -1417,7 +1417,7 @@
 		  "keyword.operator.assignment"
 		],
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#a4bfeb"
 		}
 	  },
 	  {
@@ -1883,7 +1883,7 @@
 	  "statusBar.border": "#ffffff00",
 	  "statusBar.debuggingBackground": "#8e1425d1",
 	  "statusBar.debuggingForeground": "#ffffff",
-	  "statusBar.debuggingBorder": "#02ffe7",
+	  "statusBar.debuggingBorder": "#477b76",
 	  "statusBar.noFolderBackground": "#68217a",
 	  "statusBar.noFolderForeground": "#ffffff",
 	  "statusBarItem.remoteBackground": "#28223b",
@@ -1946,7 +1946,7 @@
 	  "editorRuler.foreground": "#c0c4ac62",
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#888888",
-	  "editor.foldBackground": "#4d80b44d",
+	  "editor.foldBackground": "#3b55714d",
 	  "editorOverviewRuler.background": "#32323200",
 	  "editorOverviewRuler.border": "#7f7f7f4d",
 	  "editorError.foreground": "#f48771",
@@ -2001,12 +2001,12 @@
 	  "breadcrumb.focusForeground": "#00e7ff",
 	  "editorGroupHeader.border": "#00000000",
 	  "editorGroupHeader.tabsBackground": "#1d1926",
-	  "editorGroupHeader.tabsBorder": "#5c586687",
-	  "tab.activeForeground": "#80e6ff",
-	  "tab.border": "#5a4a8e83",
+	  "editorGroupHeader.tabsBorder": "#00000000",
+	//   "tab.activeForeground": "#f5fdff",
+	  "tab.border": "#6a638236",
 	  "tab.activeBackground": "#35323f",
 	  "tab.activeBorder": "#70698408",
-	  "tab.activeBorderTop": "#cf8a8a00",
+	  "tab.activeBorderTop": "#85c0a283",
 	  "tab.inactiveBackground": "#201e28",
 	  "tab.inactiveForeground": "#f0d1d180",
 	  "tab.hoverBackground": "#35323f",
@@ -2021,8 +2021,8 @@
 	  "editorWidget.resizeBorder": "#9982d9d3",
 	  "pickerGroup.border": "#24242c",
 	  "pickerGroup.foreground": "#679bd5",
-	  "debugToolBar.background": "#472c2c",
-	  "debugToolBar.border": "#2e1c1c",
+	  "debugToolBar.background": "#302020",
+	  "debugToolBar.border": "#645a5a2e",
 	  "notifications.foreground": "#cfb8b8",
 	  "notifications.background": "#111017",
 	  "notificationToast.border": "#ffffff1c",
