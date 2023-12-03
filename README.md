@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/logo.jpeg" alt="Blueberry Theme" width="300" style="border-radius: 50%;"></div>
 
-Description
+<div> </div>
 
 Blueberry is a soothing and vibrant color theme for Visual Studio Code. Immerse yourself in the calming depths of a rich, deep blue, reminiscent of ripe blueberries. The carefully curated syntax highlighting ensures an optimal balance between readability and aesthetics.
 
@@ -19,15 +19,21 @@ Blueberry is a soothing and vibrant color theme for Visual Studio Code. Immerse 
 
 Include screenshots here to showcase your theme in different coding scenarios.
 
-![Default](assets/0.png "Hoem")
+![Default](https://imagizer.imageshack.com/img924/39/9bwWee.png "Hoem")
 
+<div> </div>
 
+![edit page](https://imagizer.imageshack.com/img924/5549/uwCXg9.png "Editore")
 
-![edit page](assets/2.png "Editore")
+<div> </div>
 
+![page](https://imagizer.imageshack.com/img923/7164/lnzcX6.png "page")
 
+<div> </div>
 
-![page](assets/1.png "page")
+![page](https://imagizer.imageshack.com/img923/3836/iakdxL.png "page")
+
+<div> </div>
 
 ## Feedback
 
