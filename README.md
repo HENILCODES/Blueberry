@@ -1,7 +1,7 @@
 # Blueberry Theme for VS Code
 
 <div align="center">
-  <img src="assets/logo.jpeg" alt="Blueberry Theme" width="300" style="border-radius: 50%;"></div>
+  <img src="https://i.postimg.cc/d0rGPQfz/logo.jpg" alt="Blueberry Theme" width="300" style="border-radius: 50%;"></div>
 
 <div> </div>
 
@@ -19,19 +19,19 @@ Blueberry is a soothing and vibrant color theme for Visual Studio Code. Immerse 
 
 Include screenshots here to showcase your theme in different coding scenarios.
 
-![Default](https://imagizer.imageshack.com/img924/39/9bwWee.png "Hoem")
+![Default](https://i.postimg.cc/mZ8CG5d2/1.png "Hoem")
 
 <div> </div>
 
-![edit page](https://imagizer.imageshack.com/img924/5549/uwCXg9.png "Editore")
+![edit page](https://i.postimg.cc/C5L8qGKg/3.png "Editore")
 
 <div> </div>
 
-![page](https://imagizer.imageshack.com/img923/7164/lnzcX6.png "page")
+![page 1](https://i.postimg.cc/wMfmc1ts/2.png "page 1")
 
 <div> </div>
 
-![page](https://imagizer.imageshack.com/img923/3836/iakdxL.png "page")
+![page 2](https://i.postimg.cc/4NY7RN7B/4.png "page 2")
 
 <div> </div>
 
